@@ -223,7 +223,7 @@ For any failed tests (manual or automated):
 
 ---
 
-## STEP 7 (implied from page 5)
+## STEP 7 : Commit to Git Repository
 
 **Prompt:**
 Now I need to commit all the test artifacts to the repository using the GitHub MCP Server.
