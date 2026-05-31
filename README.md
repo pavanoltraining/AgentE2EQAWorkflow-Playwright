@@ -166,23 +166,10 @@ Test configuration can be modified in `playwright.config.ts` (if present) to adj
 - Base URL
 - Parallel execution
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
-**Pavan** – AI QA Automation Specialist
+**Pavan** 
 
 ## 🔗 Links
 
@@ -190,11 +177,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [SauceDemo Application](https://www.saucedemo.com)
 - [Playwright Documentation](https://playwright.dev)
 
-## 📞 Support
-
-For issues, questions, or suggestions, please open an issue on the GitHub repository.
-
 ---
 
 **Last Updated:** May 31, 2026  
-**Status:** Active Development
